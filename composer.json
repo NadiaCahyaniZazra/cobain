@@ -1,0 +1,19 @@
+{
+    "name": "cobain/labhai",
+    "description": "buat library sederhana",
+    "type": "library",
+    "license": "NIT",
+    "authors": [
+        {
+            "name": "Nadia Cahyani Zazra",
+            "email": "nadiazazra@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "cobain\\labhai\\": "src/"
+        }
+    },
+    "require": {}
+}
